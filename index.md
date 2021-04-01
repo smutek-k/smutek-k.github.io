@@ -1,7 +1,3 @@
----
-title-heading: false
----
-
 # Website of Krzysztof Smutek 
 
 Scholarships to study mathematics in France on master level (more info coming... one day): 
