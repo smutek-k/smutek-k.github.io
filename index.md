@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+#Website of Krzysztof Smutek 
 
-You can use the [editor on GitHub](https://github.com/smutek-k/resources/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Scholarships to study mathematics in France on master level: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/smutek-k/resources/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[https://www.sciencesmaths-paris.fr/en/masters-250.htm](Fondation Sciences Mathématiques de Paris)
+[https://www.fondation-hadamard.fr/en/master-master-scholarship/master-491-call-applications](Fondation mathématique Jacques-Hadamard)
+[http://bezout.univ-paris-est.fr/masters-scholarships/](Bézout excellence program)
