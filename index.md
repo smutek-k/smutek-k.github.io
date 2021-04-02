@@ -10,3 +10,7 @@ Scholarships to study mathematics in France on master level (more info coming...
 
 ## Bézout excellence program
 [http://bezout.univ-paris-est.fr/masters-scholarships/](http://bezout.univ-paris-est.fr/masters-scholarships/)
+
+### Other
+[https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu)
+[https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw](https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw)
