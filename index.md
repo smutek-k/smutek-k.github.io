@@ -16,6 +16,7 @@ Scholarships to study mathematics in France on master level (more info coming...
 [https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw](https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw) <br>
 [https://mlinpl.org](https://mlinpl.org) <br>
 [http://michel.talagrand.net](http://michel.talagrand.net) <br>
+[https://www.cambridge.org/core/books/what-is-a-quantum-field-theory/899688E515D7E05AAA88DB08325E6EAE#fndtn-information](https://www.cambridge.org/core/books/what-is-a-quantum-field-theory/899688E515D7E05AAA88DB08325E6EAE#fndtn-information) <br>
 [https://sites.google.com/site/giovannipeccati/Home](https://sites.google.com/site/giovannipeccati/Home) <br>
 [https://djalil.chafai.net/blog/](https://djalil.chafai.net/blog/) <br>
 [https://w3.ens-rennes.fr/math/people/francois.bolley/](https://w3.ens-rennes.fr/math/people/francois.bolley/)
