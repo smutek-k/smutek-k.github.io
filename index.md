@@ -17,4 +17,5 @@ Scholarships to study mathematics in France on master level (more info coming...
 [https://mlinpl.org](https://mlinpl.org) <br>
 [http://michel.talagrand.net](http://michel.talagrand.net) <br>
 [https://sites.google.com/site/giovannipeccati/Home](https://sites.google.com/site/giovannipeccati/Home) <br>
-[https://djalil.chafai.net/blog/](https://djalil.chafai.net/blog/)
+[https://djalil.chafai.net/blog/](https://djalil.chafai.net/blog/) <br>
+[https://w3.ens-rennes.fr/math/people/francois.bolley/](https://w3.ens-rennes.fr/math/people/francois.bolley/)
