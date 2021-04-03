@@ -13,7 +13,6 @@ Scholarships to study mathematics in France on master level (more info coming...
 
 ### Other links
 [https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu) <br>
-[https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw](https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw) <br>
 [https://mlinpl.org](https://mlinpl.org) <br>
 [http://michel.talagrand.net](http://michel.talagrand.net) <br>
 [https://www.cambridge.org/core/books/what-is-a-quantum-field-theory/899688E515D7E05AAA88DB08325E6EAE#fndtn-information](https://www.cambridge.org/core/books/what-is-a-quantum-field-theory/899688E515D7E05AAA88DB08325E6EAE#fndtn-information) <br>
@@ -25,3 +24,13 @@ Scholarships to study mathematics in France on master level (more info coming...
 [https://healpix.sourceforge.io/index.php](https://healpix.sourceforge.io/index.php) <br>
 [https://users.flatironinstitute.org/~ahb/](https://healpix.sourceforge.io/index.php) <br>
 [https://users.flatironinstitute.org/~ahb/rpws/](https://users.flatironinstitute.org/~ahb/rpws/)
+
+### Opportunities
+[https://www.mathjobs.org](https://www.mathjobs.org) <br>
+[http://www.fg-stochastik.de/abonnieren.html](http://www.fg-stochastik.de/abonnieren.html) <br>
+[https://fields.dm.unipi.it/listinfo/random](https://fields.dm.unipi.it/listinfo/random)
+
+### Practical
+#### Math-life balance youtube channel by Mura Yakerson
+[https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw](https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw) <br>
+
