@@ -22,6 +22,8 @@ Scholarships to study mathematics in France on master level (more info coming sl
 [https://sites.google.com/site/giovannipeccati/Home](https://sites.google.com/site/giovannipeccati/Home) <br>
 [https://djalil.chafai.net/blog/](https://djalil.chafai.net/blog/) <br>
 [https://w3.ens-rennes.fr/math/people/francois.bolley/](https://w3.ens-rennes.fr/math/people/francois.bolley/)
+[https://mathscinet.ams.org/mrlookup](https://mathscinet.ams.org/mrlookup)
+[https://detexify.kirelabs.org/classify.html](https://detexify.kirelabs.org/classify.html)
 
 ### Links numerical simulations of Random Waves
 [https://healpix.sourceforge.io/index.php](https://healpix.sourceforge.io/index.php) <br>
