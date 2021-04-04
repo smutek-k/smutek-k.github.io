@@ -11,6 +11,9 @@ Scholarships to study mathematics in France on master level (more info coming...
 ## Bézout excellence program
 [http://bezout.univ-paris-est.fr/masters-scholarships/](http://bezout.univ-paris-est.fr/masters-scholarships/)
 
+## Bourse d'excellence Eiffel
+[https://www.campusfrance.org/fr/le-programme-de-bourses-d-excellence-eiffel](https://www.campusfrance.org/fr/le-programme-de-bourses-d-excellence-eiffel)
+
 ### Other links
 [https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu) <br>
 [https://mlinpl.org](https://mlinpl.org) <br>
