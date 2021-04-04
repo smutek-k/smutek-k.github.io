@@ -21,8 +21,8 @@ Scholarships to study mathematics in France on master level (more info coming sl
 [https://www.cambridge.org/core/books/what-is-a-quantum-field-theory/899688E515D7E05AAA88DB08325E6EAE#fndtn-information](https://www.cambridge.org/core/books/what-is-a-quantum-field-theory/899688E515D7E05AAA88DB08325E6EAE#fndtn-information) <br>
 [https://sites.google.com/site/giovannipeccati/Home](https://sites.google.com/site/giovannipeccati/Home) <br>
 [https://djalil.chafai.net/blog/](https://djalil.chafai.net/blog/) <br>
-[https://w3.ens-rennes.fr/math/people/francois.bolley/](https://w3.ens-rennes.fr/math/people/francois.bolley/)
-[https://mathscinet.ams.org/mrlookup](https://mathscinet.ams.org/mrlookup)
+[https://w3.ens-rennes.fr/math/people/francois.bolley/](https://w3.ens-rennes.fr/math/people/francois.bolley/) <br>
+[https://mathscinet.ams.org/mrlookup](https://mathscinet.ams.org/mrlookup) <br>
 [https://detexify.kirelabs.org/classify.html](https://detexify.kirelabs.org/classify.html)
 
 ### Links numerical simulations of Random Waves
