@@ -1,6 +1,6 @@
 # Website of Krzysztof Smutek 
 
-Scholarships to study mathematics in France on master level (more info coming... one day): 
+Scholarships to study mathematics in France on master level (more info coming slowly as I'm building this website): 
 
 ## Fondation Sciences Mathématiques de Paris
 [https://www.sciencesmaths-paris.fr/en/masters-250.htm](https://www.sciencesmaths-paris.fr/en/masters-250.htm)
