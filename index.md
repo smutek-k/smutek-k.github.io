@@ -6,15 +6,14 @@
 
 # Other links
 1. [https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu)
-2. [https://mlinpl.org](https://mlinpl.org) 
-3. [http://michel.talagrand.net](http://michel.talagrand.net) 
-4. [https://www.cambridge.org/core/books/what-is-a-quantum-field-theory/899688E515D7E05AAA88DB08325E6EAE#fndtn-information](https://www.cambridge.org/core/books/what-is-a-quantum-field-theory/899688E515D7E05AAA88DB08325E6EAE#fndtn-information)
-5. [https://sites.google.com/site/giovannipeccati/Home](https://sites.google.com/site/giovannipeccati/Home) 
-6. [https://djalil.chafai.net/blog/](https://djalil.chafai.net/blog/) 
-7. [https://w3.ens-rennes.fr/math/people/francois.bolley/](https://w3.ens-rennes.fr/math/people/francois.bolley/)
-8. [https://mathscinet.ams.org/mrlookup](https://mathscinet.ams.org/mrlookup) 
-9. [https://detexify.kirelabs.org/classify.html](https://detexify.kirelabs.org/classify.html)
-10. [Le blog de Thomas Piketty](https://www.lemonde.fr/blog/piketty/)
+2. [http://michel.talagrand.net](http://michel.talagrand.net) 
+3. [https://www.cambridge.org/core/books/what-is-a-quantum-field-theory/899688E515D7E05AAA88DB08325E6EAE#fndtn-information](https://www.cambridge.org/core/books/what-is-a-quantum-field-theory/899688E515D7E05AAA88DB08325E6EAE#fndtn-information)
+4. [https://sites.google.com/site/giovannipeccati/Home](https://sites.google.com/site/giovannipeccati/Home) 
+5. [https://djalil.chafai.net/blog/](https://djalil.chafai.net/blog/) 
+6. [https://w3.ens-rennes.fr/math/people/francois.bolley/](https://w3.ens-rennes.fr/math/people/francois.bolley/)
+7. [https://mathscinet.ams.org/mrlookup](https://mathscinet.ams.org/mrlookup) 
+8. [https://detexify.kirelabs.org/classify.html](https://detexify.kirelabs.org/classify.html)
+9. [Le blog de Thomas Piketty](https://www.lemonde.fr/blog/piketty/)
 
 # Links numerical simulations of Random Waves
 1. [https://healpix.sourceforge.io/index.php](https://healpix.sourceforge.io/index.php)
@@ -43,5 +42,6 @@
 1.[Verres de Spin et optimisation combinatoire, voir p. 293](http://www.numdam.org/article/SB_1998-1999__41__287_0.pdf)
 2.[Crisis in the Physics and Mathematics Community in Russia and in the West, S. Novikov](http://www.mi-ras.ru/~snovikov/cris_en.pdf)
 
-# Polish mathematics
+# Polish math community
 1. [List of Polish speakers at ICM as completed by Feliks Przytycki](https://www.impan.pl/~feliksp/Polish_speakers_corr.pdf)
+2. [https://mlinpl.org](https://mlinpl.org) 
