@@ -14,6 +14,7 @@
 7. [https://w3.ens-rennes.fr/math/people/francois.bolley/](https://w3.ens-rennes.fr/math/people/francois.bolley/)
 8. [https://mathscinet.ams.org/mrlookup](https://mathscinet.ams.org/mrlookup) 
 9. [https://detexify.kirelabs.org/classify.html](https://detexify.kirelabs.org/classify.html)
+10. [Le blog de Thomas Piketty](https://www.lemonde.fr/blog/piketty/)
 
 # Links numerical simulations of Random Waves
 1. [https://healpix.sourceforge.io/index.php](https://healpix.sourceforge.io/index.php)
