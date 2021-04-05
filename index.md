@@ -43,5 +43,5 @@
 2.[Crisis in the Physics and Mathematics Community in Russia and in the West, S. Novikov](http://www.mi-ras.ru/~snovikov/cris_en.pdf)
 
 # Polish math community
-1. [List of Polish speakers at ICM as completed by Feliks Przytycki](https://www.impan.pl/~feliksp/Polish_speakers_corr.pdf)
+1. [List of Polish speakers at ICM as compiled by Feliks Przytycki](https://www.impan.pl/~feliksp/Polish_speakers_corr.pdf)
 2. [https://mlinpl.org](https://mlinpl.org) 
