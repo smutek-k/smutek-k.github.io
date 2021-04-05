@@ -38,3 +38,8 @@
 3. ["How to write mathematics" by P.R. Halmos](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf)
 4. ["Mathematical writing" by D.E. Knuth, T. Larrabee, and P.M. Roberts](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
 5. ["Writing a Math Phase Two Paper" by S.L. Kleiman](https://web.mit.edu/18.096/www/piiUJM2.pdf)
+
+# Relationship between mathematics and physics
+1.[Verres de Spin et optimisation combinatoire, voir p. 293](http://www.numdam.org/article/SB_1998-1999__41__287_0.pdf)
+2.[The Second Half of the 20th Century and its Conclusion: Crisis in the Physics and Mathematics Community
+in Russia and in the West, S. Novikov](http://www.mi-ras.ru/~snovikov/cris_en.pdf)
