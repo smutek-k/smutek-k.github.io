@@ -30,6 +30,7 @@
 2. [Advice to young mathematicians from "Princeton Companion to Mathematic"](http://assets.press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf) 
 3. [Math Stack Exchange question by Dal](https://math.stackexchange.com/questions/1041623/advice-to-young-mathematicians)
 4. [Advice for Probability Graduate Student](https://people.math.rochester.edu/faculty/cmlr/advice/)
+5. ["So, you think you're bad at math..." by Courtney Gibbons](https://www.youtube.com/watch?v=kenf8E1RuoA)
 
 # Math writing 
 1. ["How to write mathematics badly" by J.P. Serre](https://www.youtube.com/watch?v=ECQyFzzBHlo)
