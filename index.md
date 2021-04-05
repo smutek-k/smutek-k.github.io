@@ -7,27 +7,26 @@
 4. [Bourse d'excellence Eiffel](https://www.campusfrance.org/fr/le-programme-de-bourses-d-excellence-eiffel)
 
 ## Other links
-[https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu) <br>
-[https://mlinpl.org](https://mlinpl.org) <br>
-[http://michel.talagrand.net](http://michel.talagrand.net) <br>
-[https://www.cambridge.org/core/books/what-is-a-quantum-field-theory/899688E515D7E05AAA88DB08325E6EAE#fndtn-information](https://www.cambridge.org/core/books/what-is-a-quantum-field-theory/899688E515D7E05AAA88DB08325E6EAE#fndtn-information) <br>
-[https://sites.google.com/site/giovannipeccati/Home](https://sites.google.com/site/giovannipeccati/Home) <br>
-[https://djalil.chafai.net/blog/](https://djalil.chafai.net/blog/) <br>
-[https://w3.ens-rennes.fr/math/people/francois.bolley/](https://w3.ens-rennes.fr/math/people/francois.bolley/) <br>
-[https://mathscinet.ams.org/mrlookup](https://mathscinet.ams.org/mrlookup) <br>
-[https://detexify.kirelabs.org/classify.html](https://detexify.kirelabs.org/classify.html)
+1. [https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu) <br>
+2. [https://mlinpl.org](https://mlinpl.org) <br>
+3. [http://michel.talagrand.net](http://michel.talagrand.net) <br>
+4. [https://www.cambridge.org/core/books/what-is-a-quantum-field-theory/899688E515D7E05AAA88DB08325E6EAE#fndtn-information](https://www.cambridge.org/core/books/what-is-a-quantum-field-theory/899688E515D7E05AAA88DB08325E6EAE#fndtn-information) <br>
+5. [https://sites.google.com/site/giovannipeccati/Home](https://sites.google.com/site/giovannipeccati/Home) <br>
+6. [https://djalil.chafai.net/blog/](https://djalil.chafai.net/blog/) <br>
+7. [https://w3.ens-rennes.fr/math/people/francois.bolley/](https://w3.ens-rennes.fr/math/people/francois.bolley/) <br>
+8. [https://mathscinet.ams.org/mrlookup](https://mathscinet.ams.org/mrlookup) <br>
+9. [https://detexify.kirelabs.org/classify.html](https://detexify.kirelabs.org/classify.html)
 
 ## Links numerical simulations of Random Waves
-[https://healpix.sourceforge.io/index.php](https://healpix.sourceforge.io/index.php) <br>
-[https://users.flatironinstitute.org/~ahb/](https://healpix.sourceforge.io/index.php) <br>
-[https://users.flatironinstitute.org/~ahb/rpws/](https://users.flatironinstitute.org/~ahb/rpws/)
+1. [https://healpix.sourceforge.io/index.php](https://healpix.sourceforge.io/index.php) <br>
+2. [https://users.flatironinstitute.org/~ahb/](https://healpix.sourceforge.io/index.php) <br>
+3. [https://users.flatironinstitute.org/~ahb/rpws/](https://users.flatironinstitute.org/~ahb/rpws/)
 
 ## Opportunities
-[https://www.mathjobs.org](https://www.mathjobs.org) <br>
-[http://www.fg-stochastik.de/abonnieren.html](http://www.fg-stochastik.de/abonnieren.html) <br>
-[https://fields.dm.unipi.it/listinfo/random](https://fields.dm.unipi.it/listinfo/random)
+1. [https://www.mathjobs.org](https://www.mathjobs.org) <br>
+2. [http://www.fg-stochastik.de/abonnieren.html](http://www.fg-stochastik.de/abonnieren.html) <br>
+3. [https://fields.dm.unipi.it/listinfo/random](https://fields.dm.unipi.it/listinfo/random)
 
-## Practical
-### Math-life balance youtube channel by Mura Yakerson
-[https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw](https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw) <br>
+## Practical 
+1. [Math-life balance youtube channel by Mura Yakerson](https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw) <br>
 
