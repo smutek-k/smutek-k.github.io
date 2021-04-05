@@ -29,7 +29,7 @@
 
 ## Practical 
 1. [Math-life balance youtube channel by Mura Yakerson](https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw)
-2. [Advice to young mathematicians from "Princeton companion to mathematics"](http://assets.press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf) 
+2. [Advice to young mathematicians from "Princeton Companion to Mathematic"](http://assets.press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf) 
 
 ## Math writing 
 1. ["How to write mathmatics badly" by J.P. Serre](https://www.youtube.com/watch?v=ECQyFzzBHlo)
