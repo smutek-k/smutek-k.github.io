@@ -40,8 +40,8 @@
 5. ["Writing a Math Phase Two Paper" by S.L. Kleiman](https://web.mit.edu/18.096/www/piiUJM2.pdf)
 
 # Relationship between mathematics and physics
-1.[Verres de Spin et optimisation combinatoire, voir p. 293](http://www.numdam.org/article/SB_1998-1999__41__287_0.pdf)
-2.[Crisis in the Physics and Mathematics Community in Russia and in the West, S. Novikov](http://www.mi-ras.ru/~snovikov/cris_en.pdf)
+1. [Verres de Spin et optimisation combinatoire, voir p. 293](http://www.numdam.org/article/SB_1998-1999__41__287_0.pdf)
+2. [Crisis in the Physics and Mathematics Community in Russia and in the West, S. Novikov](http://www.mi-ras.ru/~snovikov/cris_en.pdf)
 
 # Polish math community
 1. [List of Polish speakers at ICM as compiled by Feliks Przytycki](https://www.impan.pl/~feliksp/Polish_speakers_corr.pdf)
