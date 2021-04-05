@@ -33,7 +33,7 @@
 4. [Advice for Probability Graduate Student](https://people.math.rochester.edu/faculty/cmlr/advice/)
 
 # Math writing 
-1. ["How to write mathmatics badly" by J.P. Serre](https://www.youtube.com/watch?v=ECQyFzzBHlo)
+1. ["How to write mathematics badly" by J.P. Serre](https://www.youtube.com/watch?v=ECQyFzzBHlo)
 2. ["Writing mathematical papers in english, a practical guide" by J. Trzeciak](https://utvle.files.wordpress.com/2010/09/1995-ems-trzeciak-writing_mathematical_papers_in_english__a_practical_guide.pdf)
 3. ["How to write mathematics" by P.R. Halmos](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf)
 4. ["Mathematical writing" by D.E. Knuth, T. Larrabee, and P.M. Roberts](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
