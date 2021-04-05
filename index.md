@@ -41,5 +41,4 @@
 
 # Relationship between mathematics and physics
 1.[Verres de Spin et optimisation combinatoire, voir p. 293](http://www.numdam.org/article/SB_1998-1999__41__287_0.pdf)
-2.[The Second Half of the 20th Century and its Conclusion: Crisis in the Physics and Mathematics Community
-in Russia and in the West, S. Novikov](http://www.mi-ras.ru/~snovikov/cris_en.pdf)
+2.[The Second Half of the 20th Century and its Conclusion: Crisis in the Physics and Mathematics Community in Russia and in the West, S. Novikov](http://www.mi-ras.ru/~snovikov/cris_en.pdf)
