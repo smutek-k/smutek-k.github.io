@@ -30,3 +30,5 @@
 ## Practical 
 1. [Math-life balance youtube channel by Mura Yakerson](https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw) <br>
 
+## Math writing 
+1. ["How to write mathmatics badly" by J.P. Serre](https://www.youtube.com/watch?v=ECQyFzzBHlo)
