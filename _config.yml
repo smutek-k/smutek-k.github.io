@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
+ name: Stuff
+ title: null
+ github:
+   is_project_page: false
