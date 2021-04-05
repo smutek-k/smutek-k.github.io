@@ -1,12 +1,10 @@
-# Website of Krzysztof Smutek 
-
-## Scholarships to study mathematics in France on master level
+# Scholarships to study mathematics in France on master level
 1. [Fondation Sciences Mathématiques de Paris](https://www.sciencesmaths-paris.fr/en/masters-250.htm)
 2. [Fondation mathématique Jacques-Hadamard](https://www.fondation-hadamard.fr/en/master-master-scholarship/master-491-call-applications)
 3. [Bézout excellence program](http://bezout.univ-paris-est.fr/masters-scholarships/)
 4. [Bourse d'excellence Eiffel](https://www.campusfrance.org/fr/le-programme-de-bourses-d-excellence-eiffel)
 
-## Other links
+# Other links
 1. [https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu)
 2. [https://mlinpl.org](https://mlinpl.org) 
 3. [http://michel.talagrand.net](http://michel.talagrand.net) 
@@ -17,19 +15,19 @@
 8. [https://mathscinet.ams.org/mrlookup](https://mathscinet.ams.org/mrlookup) 
 9. [https://detexify.kirelabs.org/classify.html](https://detexify.kirelabs.org/classify.html)
 
-## Links numerical simulations of Random Waves
+# Links numerical simulations of Random Waves
 1. [https://healpix.sourceforge.io/index.php](https://healpix.sourceforge.io/index.php)
 2. [https://users.flatironinstitute.org/~ahb/](https://healpix.sourceforge.io/index.php) 
 3. [https://users.flatironinstitute.org/~ahb/rpws/](https://users.flatironinstitute.org/~ahb/rpws/)
 
-## Opportunities
+# Opportunities
 1. [https://www.mathjobs.org](https://www.mathjobs.org) <br>
 2. [http://www.fg-stochastik.de/abonnieren.html](http://www.fg-stochastik.de/abonnieren.html) 
 3. [https://fields.dm.unipi.it/listinfo/random](https://fields.dm.unipi.it/listinfo/random)
 
-## Practical 
+# Practical 
 1. [Math-life balance youtube channel by Mura Yakerson](https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw)
 2. [Advice to young mathematicians from "Princeton Companion to Mathematic"](http://assets.press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf) 
 
-## Math writing 
+# Math writing 
 1. ["How to write mathmatics badly" by J.P. Serre](https://www.youtube.com/watch?v=ECQyFzzBHlo)
