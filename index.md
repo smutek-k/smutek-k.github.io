@@ -3,7 +3,7 @@
 Scholarships to study mathematics in France on master level (more info coming slowly as I'm building this website): 
 
 ## Fondation Sciences Mathématiques de Paris
-[https://www.sciencesmaths-paris.fr/en/masters-250.htm](https://www.sciencesmaths-paris.fr/en/masters-250.htm)
+[Fondation Sciences Mathématiques de Paris](https://www.sciencesmaths-paris.fr/en/masters-250.htm)
 
 ## Fondation mathématique Jacques-Hadamard
 [https://www.fondation-hadamard.fr/en/master-master-scholarship/master-491-call-applications](https://www.fondation-hadamard.fr/en/master-master-scholarship/master-491-call-applications)
