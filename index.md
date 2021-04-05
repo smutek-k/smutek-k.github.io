@@ -1,10 +1,10 @@
 # Website of Krzysztof Smutek 
 
 ## Scholarships to study mathematics in France on master level
-[Fondation Sciences Mathématiques de Paris](https://www.sciencesmaths-paris.fr/en/masters-250.htm)
-[Fondation mathématique Jacques-Hadamard](https://www.fondation-hadamard.fr/en/master-master-scholarship/master-491-call-applications)
-[Bézout excellence program](http://bezout.univ-paris-est.fr/masters-scholarships/)
-[Bourse d'excellence Eiffel](https://www.campusfrance.org/fr/le-programme-de-bourses-d-excellence-eiffel)
+1. [Fondation Sciences Mathématiques de Paris](https://www.sciencesmaths-paris.fr/en/masters-250.htm)
+2. [Fondation mathématique Jacques-Hadamard](https://www.fondation-hadamard.fr/en/master-master-scholarship/master-491-call-applications)
+3. [Bézout excellence program](http://bezout.univ-paris-est.fr/masters-scholarships/)
+4. [Bourse d'excellence Eiffel](https://www.campusfrance.org/fr/le-programme-de-bourses-d-excellence-eiffel)
 
 ## Other links
 [https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu) <br>
