@@ -15,6 +15,7 @@
 8. [https://detexify.kirelabs.org/classify.html](https://detexify.kirelabs.org/classify.html)
 9. [Le blog de Thomas Piketty](https://www.lemonde.fr/blog/piketty/)
 10. [Blog of Izabella Łaba](https://ilaba.wordpress.com)
+11. [Kupcinet-Getz International Summer School for undergraduate students](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0)
 
 # Links numerical simulations of Random Waves
 1. [https://healpix.sourceforge.io/index.php](https://healpix.sourceforge.io/index.php)
