@@ -1,8 +1,14 @@
-# Scholarships to study mathematics in France on master level
+
+# For BSc and MSc students
+## Scholarships to study mathematics in France on master level
 1. [Fondation Sciences Mathématiques de Paris](https://www.sciencesmaths-paris.fr/en/masters-250.htm)
 2. [Fondation mathématique Jacques-Hadamard](https://www.fondation-hadamard.fr/en/master-master-scholarship/master-491-call-applications)
 3. [Bézout excellence program](http://bezout.univ-paris-est.fr/masters-scholarships/)
 4. [Bourse d'excellence Eiffel](https://www.campusfrance.org/fr/le-programme-de-bourses-d-excellence-eiffel)
+
+## Other 
+1. [MSc+PhD scholarships (so called Phase I and II) at Berlin School of Mathematics](https://www.math-berlin.de/students/financing-your-phd)
+2. [Kupcinet-Getz International Summer School for undergraduate students](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0)
 
 # Other links
 1. [https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu)
@@ -15,7 +21,6 @@
 8. [https://detexify.kirelabs.org/classify.html](https://detexify.kirelabs.org/classify.html)
 9. [Le blog de Thomas Piketty](https://www.lemonde.fr/blog/piketty/)
 10. [Blog of Izabella Łaba](https://ilaba.wordpress.com)
-11. [Kupcinet-Getz International Summer School for undergraduate students](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0)
 
 # Links numerical simulations of Random Waves
 1. [https://healpix.sourceforge.io/index.php](https://healpix.sourceforge.io/index.php)
