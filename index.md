@@ -14,13 +14,15 @@
 1. [https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu)
 2. [http://michel.talagrand.net](http://michel.talagrand.net) 
 3. [https://www.cambridge.org/core/books/what-is-a-quantum-field-theory/899688E515D7E05AAA88DB08325E6EAE#fndtn-information](https://www.cambridge.org/core/books/what-is-a-quantum-field-theory/899688E515D7E05AAA88DB08325E6EAE#fndtn-information)
-4. [https://sites.google.com/site/giovannipeccati/Home](https://sites.google.com/site/giovannipeccati/Home) 
+4. [Webpage of Giovanni Peccati](https://sites.google.com/site/giovannipeccati/Home) 
 5. [https://djalil.chafai.net/blog/](https://djalil.chafai.net/blog/) 
 6. [https://w3.ens-rennes.fr/math/people/francois.bolley/](https://w3.ens-rennes.fr/math/people/francois.bolley/)
 7. [https://mathscinet.ams.org/mrlookup](https://mathscinet.ams.org/mrlookup) 
 8. [https://detexify.kirelabs.org/classify.html](https://detexify.kirelabs.org/classify.html)
 9. [Le blog de Thomas Piketty](https://www.lemonde.fr/blog/piketty/)
 10. [Blog of Izabella Łaba](https://ilaba.wordpress.com)
+11. [Malliavin-Stein approach, a webpage maintained bv Ivan Nourdin](https://sites.google.com/site/malliavinstein/home)
+12. [Webpage of Ivan Nourdin](https://sites.google.com/site/ivannourdin/)
 
 # Links numerical simulations of Random Waves
 1. [https://healpix.sourceforge.io/index.php](https://healpix.sourceforge.io/index.php)
