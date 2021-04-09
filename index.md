@@ -54,4 +54,4 @@
 
 # Polish math community
 1. [List of Polish speakers at ICM as compiled by Feliks Przytycki](https://www.impan.pl/~feliksp/Polish_speakers_corr.pdf)
-2. [https://mlinpl.org](https://mlinpl.org) 
+2. [ML in PL Association](https://mlinpl.org) 
