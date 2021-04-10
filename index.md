@@ -58,4 +58,4 @@
 
 # Effectivity
 1. [SelfControl, great free Mac application to help you avoid distracting websites.](https://selfcontrolapp.com)
-2. [FocusMe, best alternative of SelfControl that I coud find for android](https://focusme.com/?ref=2&gclid=Cj0KCQjwmcWDBhCOARIsALgJ2QdN5rY2HPMunfoTJsjGVGoa87NGDbQkEBZrvekkUtzB5pOs_LZ4ZXwaApXNEALw_wcB)
+2. [FocusMe, best alternative of SelfControl that I coud find for android.](https://focusme.com/?ref=2&gclid=Cj0KCQjwmcWDBhCOARIsALgJ2QdN5rY2HPMunfoTJsjGVGoa87NGDbQkEBZrvekkUtzB5pOs_LZ4ZXwaApXNEALw_wcB)
