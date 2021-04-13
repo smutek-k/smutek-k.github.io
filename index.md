@@ -5,6 +5,7 @@
 2. [Fondation mathématique Jacques-Hadamard](https://www.fondation-hadamard.fr/en/master-master-scholarship/master-491-call-applications)
 3. [Bézout excellence program](http://bezout.univ-paris-est.fr/masters-scholarships/)
 4. [Bourse d'excellence Eiffel](https://www.campusfrance.org/fr/le-programme-de-bourses-d-excellence-eiffel)
+5. [The Lebesgue Master Scholarship](https://www.lebesgue.fr/content/bourses_master)
 
 ## Other 
 1. [MSc+PhD scholarships (so called Phase I and II) at Berlin School of Mathematics](https://www.math-berlin.de/students/financing-your-phd)
