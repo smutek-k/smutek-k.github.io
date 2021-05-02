@@ -25,6 +25,7 @@
 10. [Blog of Izabella Łaba](https://ilaba.wordpress.com)
 11. [Malliavin-Stein approach, a webpage maintained bv Ivan Nourdin](https://sites.google.com/site/malliavinstein/home)
 12. [Webpage of Ivan Nourdin](https://sites.google.com/site/ivannourdin/)
+13. [Dr. Z's Opinions](https://sites.math.rutgers.edu/~zeilberg/OPINIONS.html)
 
 # Links numerical simulations of Random Waves
 1. [https://healpix.sourceforge.io/index.php](https://healpix.sourceforge.io/index.php)
