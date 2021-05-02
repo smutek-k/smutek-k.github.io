@@ -45,7 +45,7 @@
 6. [Living proof, Stories of Resilience Along the Mathematical Journey, AMS blog.](https://blogs.ams.org/livingproof/)
 7. [Technology and Courage by Ivan Sutherland](https://cseweb.ucsd.edu/~wgg/smli_ps-1.pdf)
 8. [A Few Words with Niklaus Wirth by Carlo Pescio](http://www.eptacom.net/pubblicazioni/pub_eng/wirth.html)
-9. [ How to Have a Bad Career How to Have a Bad Career in Research/Academia by David A. Patterson](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
+9. [How to Have a Bad Career in Research/Academia by David A. Patterson](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
 
 # Math writing 
 1. ["How to write mathematics badly" by J.P. Serre](https://www.youtube.com/watch?v=ECQyFzzBHlo)
