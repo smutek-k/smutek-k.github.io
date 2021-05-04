@@ -49,6 +49,7 @@
 9. [How to Have a Bad Career in Research/Academia by David A. Patterson](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
 10. [Blog by Yanick Fratantonio](https://reyammer.io/blog/)
 11. [Blog by Matt Welsh](https://matt-welsh.blogspot.com)
+12. [Teach yourself programming in 10 years by Peter Norvig](https://norvig.com/21-days.html)
 
 # Math writing 
 1. ["How to write mathematics badly" by J.P. Serre](https://www.youtube.com/watch?v=ECQyFzzBHlo)
